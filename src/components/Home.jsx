@@ -19,7 +19,7 @@ const Home = ({ toggle }) => {
   return (
     <Container>
       <div>
-        <img src="../public/images/dice.png" alt="" />
+        <img src="images/dice.png" alt="" />
       </div>
       <div className="display-text">
         <h1>Dice Game</h1>
